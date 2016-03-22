@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.fusionmc" name="fusionmc repository" version="1.0.0" provider-name="fusionware">
+	<extension point="xbmc.addon.repository" name="fusionmc Repository">
+		<info>https://raw.githubusercontent.com/fusionwareit/kodirepo/master/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/fusionwareit/kodirepo/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://github.com/fusionwareit/kodirepo/raw/master/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>fusionmc repository</summary>
+   		<description lang="en">Install fusionmc Repository!</description>
+    		<description lang="it">Installa il Repository fusionmc!</description>
+		<disclaimer></disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>

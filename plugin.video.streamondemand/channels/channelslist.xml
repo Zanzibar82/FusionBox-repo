@@ -1,0 +1,1167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<channels>
+
+<channel>
+    <id>altadefinizione01</id>
+    <name>AltaDefinizione01</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/Zanzibar82/plugin.video.streamondemand/master/channels/altadefinizione01.py</update_url>
+    <active>true</active>
+    <include_in_global_search>true</include_in_global_search>
+    <version>14</version>
+    <adult>false</adult>
+    <date>30/12/2015</date>
+    <changes>Fixes</changes>
+    <categories>
+        <category>movie</category>
+        <category>serie</category>
+        <category>anime</category>
+        <category>vos</category>
+    </categories>
+</channel>
+
+
+<channel>
+    <id>altadefinizioneclick</id>
+    <name>Altadefinizione.click</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/Zanzibar82/plugin.video.streamondemand/master/channels/altadefinizioneclick.py</update_url>
+    <active>true</active>
+    <include_in_global_search>true</include_in_global_search>
+    <version>10</version>
+    <adult>false</adult>
+    <date>11/01/2016</date>
+    <changes>Re-added</changes>
+    <categories>
+        <category>movie</category>
+        <category>serie</category>
+        <category>anime</category>
+        <category>vos</category>
+    </categories>
+</channel>
+
+
+<channel>
+    <id>asiansubita</id>
+    <name>Asian Sub-Ita</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/Zanzibar82/plugin.video.streamondemand/master/channels/asiansubita.py</update_url>
+    <active>true</active>
+    <include_in_global_search>true</include_in_global_search>
+    <version>3</version>
+    <adult>false</adult>
+    <date>26/10/2015</date>
+    <changes>Added correct icon</changes>
+    <categories>
+        <category>movie</category>
+        <category>serie</category>
+        <category>vos</category>
+    </categories>
+</channel>
+
+
+<channel>
+    <id>ayuda</id>
+    <name>Ayuda</name>
+    <language>es</language>
+    <update_url>https://raw.githubusercontent.com/Zanzibar82/plugin.video.streamondemand/master/channels/ayuda.py</update_url>
+    <active>true</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>1</version>
+    <adult>false</adult>
+    <date>28/08/2015</date>
+    <changes>First streamondemand.4 release</changes>
+</channel>
+
+
+<channel>
+    <id>biblioteca</id>
+    <name>Biblioteca</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/Zanzibar82/plugin.video.streamondemand/master/channels/biblioteca.py</update_url>
+    <active>true</active>
+    <include_in_global_search>true</include_in_global_search>
+    <version>35</version>
+    <adult>false</adult>
+    <date>01/03/2016</date>
+    <changes>Added TV-Shows extend search by schismtv</changes>
+    <categories>
+        <category>movie</category>
+        <category>serie</category>
+        <category>vos</category>
+    </categories>
+</channel>
+
+
+<channel>
+    <id>buscador</id>
+    <name>Buscador global</name>
+    <language>es</language>
+    <update_url>https://raw.githubusercontent.com/Zanzibar82/plugin.video.streamondemand/master/channels/buscador.py</update_url>
+    <active>true</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>9</version>
+    <adult>false</adult>
+    <date>26/11/2015</date>
+    <changes>Smail fix customization</changes>
+</channel>
+
+
+<channel>
+    <id>casacinema</id>
+    <name>Casa-Cinema</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/Zanzibar82/plugin.video.streamondemand/master/channels/casacinema.py</update_url>
+    <active>true</active>
+    <include_in_global_search>true</include_in_global_search>
+    <version>8</version>
+    <adult>false</adult>
+    <date>29/11/2015</date>
+    <changes>Added back home</changes>
+    <categories>
+        <category>movie</category>
+        <category>serie</category>
+        <category>anime</category>
+        <category>vos</category>
+    </categories>
+</channel>
+
+
+<channel>
+    <id>chimerarevo</id>
+    <name>Chimerarevo</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/Zanzibar82/plugin.video.streamondemand/master/channels/chimerarevo.py</update_url>
+    <active>true</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>1</version>
+    <adult>false</adult>
+    <date>27/02/2016</date>
+    <changes>Re-added channel</changes>
+    <categories>
+        <category>Documentaries</category>
+    </categories>
+</channel>
+
+
+<channel>
+    <id>cineblog01</id>
+    <name>Cineblog01</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/Zanzibar82/plugin.video.streamondemand/master/channels/cineblog01.py</update_url>
+    <active>true</active>
+    <include_in_global_search>true</include_in_global_search>
+    <version>27</version>
+    <adult>false</adult>
+    <date>05/03/2016</date>
+    <changes>Added home</changes>
+    <categories>
+        <category>movie</category>
+        <category>serie</category>
+        <category>anime</category>
+        <category>vos</category>
+    </categories>
+</channel>
+
+
+<channel>
+    <id>cinemalibero</id>
+    <name>Cinemalibero</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/Zanzibar82/plugin.video.streamondemand/master/channels/cinemalibero.py</update_url>
+    <active>true</active>
+    <include_in_global_search>true</include_in_global_search>
+    <version>5</version>
+    <adult>false</adult>
+    <date>05/01/2016</date>
+    <changes>First release</changes>
+    <categories>
+        <category>movie</category>
+        <category>serie</category>
+        <category>anime</category>
+        <category>vos</category>
+    </categories>
+</channel>
+
+
+<channel>
+    <id>cinemastreaming</id>
+    <name>Cinemastreaming.net</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/Zanzibar82/plugin.video.streamondemand/master/channels/cinemastreaming.py</update_url>
+    <active>true</active>
+    <include_in_global_search>true</include_in_global_search>
+    <version>3</version>
+    <adult>false</adult>
+    <date>15/11/2015</date>
+    <changes>Prima versione SOD</changes>
+    <categories>
+        <category>movie</category>
+    </categories>
+</channel>
+
+
+<channel>
+    <id>corsaronero</id>
+    <name>Corsaronero</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/Zanzibar82/plugin.video.streamondemand/master/channels/corsaronero.py</update_url>
+    <active>true</active>
+    <include_in_global_search>true</include_in_global_search>
+    <version>1</version>
+    <adult>false</adult>
+    <date>03/01/2016</date>
+    <changes>1st release</changes>
+    <categories>
+        <category>movie</category>
+    </categories>
+</channel>
+
+
+<channel>
+    <id>cucinarefacile</id>
+    <name>Cucinarefacile</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/Zanzibar82/plugin.video.streamondemand/master/channels/cucinarefacile.py</update_url>
+    <active>true</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>5</version>
+    <adult>false</adult>
+    <date>14/02/2016</date>
+    <changes>Menù thumbnail</changes>
+    <categories>
+        <category>Documentaries</category>
+    </categories>
+</channel>
+
+
+<channel>
+    <id>darkstream</id>
+    <name>Darkstream</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/Zanzibar82/plugin.video.streamondemand/master/channels/darkstream.py</update_url>
+    <active>true</active>
+    <include_in_global_search>true</include_in_global_search>
+    <version>8</version>
+    <adult>false</adult>
+    <date>19/02/2016</date>
+    <changes>Added poster in lists</changes>
+    <categories>
+        <category>movie</category>
+        <category>serie</category>
+    </categories>
+</channel>
+
+
+<channel>
+    <id>documentaristreaming</id>
+    <name>Documentari Streaming</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/Zanzibar82/plugin.video.streamondemand/master/channels/documentaristreaming.py</update_url>
+    <active>true</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>9</version>
+    <adult>false</adult>
+    <date>03/03/2016</date>
+    <changes>Re-code new site</changes>
+    <categories>
+        <category>Documentaries</category>
+    </categories>
+</channel>
+
+
+<channel>
+    <id>eurostreaming</id>
+    <name>Eurostreaming</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/Zanzibar82/plugin.video.streamondemand/master/channels/eurostreaming.py</update_url>
+    <active>true</active>
+    <include_in_global_search>true</include_in_global_search>
+    <version>7</version>
+    <adult>false</adult>
+    <date>28/08/2015</date>
+    <changes>Prima versione di Pelisalacarta 4</changes>
+    <categories>
+        <category>movie</category>
+        <category>serie</category>
+        <category>anime</category>
+    </categories>
+</channel>
+
+
+<channel>
+    <id>eurostreaminginfo</id>
+    <name>Eurostreaminginfo</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/Zanzibar82/plugin.video.streamondemand/master/channels/eurostreaminginfo.py</update_url>
+    <active>true</active>
+    <include_in_global_search>true</include_in_global_search>
+    <version>2</version>
+    <adult>false</adult>
+    <date>21/12/2015</date>
+    <changes>2st version</changes>
+    <categories>
+        <category>movie</category>
+        <category>serie</category>
+    </categories>
+</channel>
+
+
+<channel>
+    <id>filmitaliatv</id>
+    <name>Filmitalia.tv</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/Zanzibar82/plugin.video.streamondemand/master/channels/filmitaliatv.py</update_url>
+    <active>true</active>
+    <include_in_global_search>true</include_in_global_search>
+    <version>7</version>
+    <adult>false</adult>
+    <date>03/12/2015</date>
+    <changes>Patron rewritten</changes>
+    <categories>
+        <category>movie</category>
+    </categories>
+</channel>
+
+
+<channel>
+    <id>filmontv</id>
+    <name>Oggi in TV</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/Zanzibar82/plugin.video.streamondemand/master/channels/filmontv.py</update_url>
+    <active>true</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>10</version>
+    <adult>false</adult>
+    <date>26/11/2015</date>
+    <changes>Fix channel</changes>
+    <categories>
+        <category>movie</category>
+        <category>serie</category>
+        <category>anime</category>
+        <category>vos</category>
+    </categories>
+</channel>
+
+
+<channel>
+    <id>filmpertutti</id>
+    <name>Film per tutti</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/Zanzibar82/plugin.video.streamondemand/master/channels/filmpertutti.py</update_url>
+    <active>true</active>
+    <include_in_global_search>true</include_in_global_search>
+    <version>11</version>
+    <adult>false</adult>
+    <date>11/01/2016</date>
+    <changes>Migliorie anime sub ita</changes>
+    <categories>
+        <category>movie</category>
+        <category>serie</category>
+        <category>anime</category>
+    </categories>
+</channel>
+
+
+<channel>
+    <id>filmsenzalimiti</id>
+    <name>Film Senza Limiti</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/Zanzibar82/plugin.video.streamondemand/master/channels/filmsenzalimiti.py</update_url>
+    <active>true</active>
+    <include_in_global_search>true</include_in_global_search>
+    <version>7</version>
+    <adult>false</adult>
+    <date>28/10/2015</date>
+    <changes>Added Doc search tweak</changes>
+    <categories>
+        <category>movie</category>
+    </categories>
+</channel>
+
+
+<channel>
+    <id>filmstream</id>
+    <name>FilmStream.org</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/Zanzibar82/plugin.video.streamondemand/master/channels/filmstream.py</update_url>
+    <active>true</active>
+    <include_in_global_search>true</include_in_global_search>
+    <version>10</version>
+    <adult>false</adult>
+    <date>08/11/2015</date>
+    <changes>Fix Categorie</changes>
+    <categories>
+        <category>movie</category>
+        <category>serie</category>
+    </categories>
+</channel>
+
+
+<channel>
+    <id>filmstreampw</id>
+    <name>FilmStream.to</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/Zanzibar82/plugin.video.streamondemand/master/channels/filmstreampw.py</update_url>
+    <active>true</active>
+    <include_in_global_search>true</include_in_global_search>
+    <version>8</version>
+    <adult>false</adult>
+    <date>26/10/2015</date>
+    <changes>Added correct icon</changes>
+    <categories>
+        <category>movie</category>
+        <category>serie</category>
+    </categories>
+</channel>
+
+
+<channel>
+    <id>filmsubitotv</id>
+    <name>FilmSubito</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/Zanzibar82/plugin.video.streamondemand/master/channels/filmsubitotv.py</update_url>
+    <active>true</active>
+    <include_in_global_search>true</include_in_global_search>
+    <version>10</version>
+    <adult>false</adult>
+    <date>14/02/2016</date>
+    <changes>Modifiche</changes>
+    <categories>
+        <category>movie</category>
+        <category>serie</category>
+        <category>anime</category>
+        <category>documentaries</category>
+    </categories>
+</channel>
+
+
+<channel>
+    <id>guardarefilm</id>
+    <name>GuardareFilm</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/Zanzibar82/plugin.video.streamondemand/master/channels/guardarefilm.py</update_url>
+    <active>true</active>
+    <include_in_global_search>true</include_in_global_search>
+    <version>8</version>
+    <adult>false</adult>
+    <date>16/02/2016</date>
+    <changes>Added Doc search tweak</changes>
+    <categories>
+        <category>movie</category>
+        <category>serie</category>
+        <category>anime</category>
+    </categories>
+</channel>
+
+
+<channel>
+    <id>guardaserie</id>
+    <name>Guardaserie.net</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/Zanzibar82/plugin.video.streamondemand/master/channels/guardaserie.py</update_url>
+    <active>true</active>
+    <include_in_global_search>true</include_in_global_search>
+    <version>11</version>
+    <adult>false</adult>
+    <date>11/02/2016</date>
+    <changes>Modifiche</changes>
+    <categories>
+        <category>movie</category>
+        <category>serie</category>
+        <category>anime</category>
+    </categories>
+</channel>
+
+
+<channel>
+    <id>hdblog</id>
+    <name>HDBlog.it</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/Zanzibar82/plugin.video.streamondemand/master/channels/hdblog.py</update_url>
+    <active>true</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>2</version>
+    <adult>false</adult>
+    <date>21/02/2016</date>
+    <changes>1st release</changes>
+    <categories>
+        <category>Documentaries</category>
+    </categories>
+</channel>
+
+
+<channel>
+    <id>hdgratis</id>
+    <name>HDGratis</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/Zanzibar82/plugin.video.streamondemand/master/channels/hdgratis.py</update_url>
+    <active>true</active>
+    <include_in_global_search>true</include_in_global_search>
+    <version>2</version>
+    <adult>false</adult>
+    <date>16/02/2016</date>
+    <changes>added new channel - 21:09 version update test</changes>
+    <categories>
+        <category>movie</category>
+        <category>anime</category>
+        <category>vos</category>
+    </categories>
+</channel>
+
+<channel>
+    <id>hdstreamingit</id>
+    <name>hdstreamingit</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/Zanzibar82/plugin.video.streamondemand/master/channels/hdstreamingit.py</update_url>
+    <active>true</active>
+    <include_in_global_search>true</include_in_global_search>
+    <version>9</version>
+    <adult>false</adult>
+    <date>18/01/2016</date>
+    <changes>Prima versione SOD</changes>
+    <categories>
+        <category>movie</category>
+    </categories>
+</channel>
+
+
+<channel>
+    <id>hokutonoken</id>
+    <name>Hokuto no Ken</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/Zanzibar82/plugin.video.streamondemand/master/channels/hokutonoken.py</update_url>
+    <active>true</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>2</version>
+    <adult>false</adult>
+    <date>24/11/2015</date>
+    <changes>New Channel</changes>
+    <categories>
+        <category>serie</category>
+        <category>anime</category>
+    </categories>
+</channel>
+
+
+<channel>
+    <id>instreaminginfo</id>
+    <name>Instreaminginfo</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/Zanzibar82/plugin.video.streamondemand/master/channels/instreaminginfo.py</update_url>
+    <active>true</active>
+    <include_in_global_search>true</include_in_global_search>
+    <version>2</version>
+    <adult>false</adult>
+    <date>14/02/2016</date>
+    <changes>First release</changes>
+    <categories>
+        <category>movie</category>
+    </categories>
+</channel>
+
+
+<channel>
+    <id>itafilmtv</id>
+    <name>ItaFilm.t</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/Zanzibar82/plugin.video.streamondemand/master/channels/itafilmtv.py</update_url>
+    <active>true</active>
+    <include_in_global_search>true</include_in_global_search>
+    <version>7</version>
+    <adult>false</adult>
+    <date>13/09/2015</date>
+    <changes>Prima versione di Pelisalacarta 4</changes>
+    <categories>
+        <category>movie</category>
+        <category>serie</category>
+        <category>anime</category>
+        <category>Documentaries</category>
+    </categories>
+</channel>
+
+
+<channel>
+    <id>italiafilm</id>
+    <name>Italia-Film.co</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/Zanzibar82/plugin.video.streamondemand/master/channels/italiafilm.py</update_url>
+    <active>true</active>
+    <include_in_global_search>true</include_in_global_search>
+    <version>9</version>
+    <adult>false</adult>
+    <date>26/10/2015</date>
+    <changes>Added correct icon</changes>
+    <categories>
+        <category>movie</category>
+        <category>serie</category>
+        <category>anime</category>
+    </categories>
+</channel>
+
+
+<channel>
+    <id>italiafilmvideohd</id>
+    <name>Italiafilmvideo HD</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/Zanzibar82/plugin.video.streamondemand/master/channels/italiafilmvideohd.py</update_url>
+    <active>true</active>
+    <include_in_global_search>true</include_in_global_search>
+    <version>1</version>
+    <adult>false</adult>
+    <date>13/02/2016</date>
+    <changes>Re-added</changes>
+    <categories>
+        <category>movie</category>
+        <category>anime</category>
+        <category>vos</category>
+    </categories>
+</channel>
+
+
+<channel>
+    <id>italianstream</id>
+    <name>Italian-Stream</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/Zanzibar82/plugin.video.streamondemand/master/channels/italianstream.py</update_url>
+    <active>true</active>
+    <include_in_global_search>true</include_in_global_search>
+    <version>6</version>
+    <adult>false</adult>
+    <date>26/10/2015</date>
+    <changes>Added correct icon</changes>
+    <categories>
+        <category>movie</category>
+        <category>serie</category>
+        <category>vos</category>
+    </categories>
+</channel>
+
+
+<channel>
+    <id>italiaserie</id>
+    <name>Italia Serie</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/Zanzibar82/plugin.video.streamondemand/master/channels/italiaserie.py</update_url>
+    <active>true</active>
+    <include_in_global_search>true</include_in_global_search>
+    <version>4</version>
+    <adult>false</adult>
+    <date>13/12/2015</date>
+    <changes>Fixed patron</changes>
+    <categories>
+        <category>serie</category>
+        <category>anime</category>
+    </categories>
+</channel>
+
+
+<channel>
+    <id>itastreaming</id>
+    <name>ItaStreaming</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/Zanzibar82/plugin.video.streamondemand/master/channels/itastreaming.py</update_url>
+    <active>true</active>
+    <include_in_global_search>true</include_in_global_search>
+    <version>5</version>
+    <adult>false</adult>
+    <date>16/02/2016</date>
+    <changes>fixed hdpass</changes>
+    <categories>
+        <category>movie</category>
+    </categories>
+</channel>
+
+
+<channel>
+    <id>liberoita</id>
+    <name>LiberoITA</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/Zanzibar82/plugin.video.streamondemand/master/channels/liberoita.py</update_url>
+    <active>true</active>
+    <include_in_global_search>true</include_in_global_search>
+    <version>10</version>
+    <adult>false</adult>
+    <date>18/01/2016</date>
+    <changes>Re-Added Categories</changes>
+    <categories>
+        <category>movie</category>
+    </categories>
+</channel>
+
+
+<channel>
+    <id>libreria</id>
+    <name>Libreria</name>
+    <language>es</language>
+    <update_url>https://raw.githubusercontent.com/Zanzibar82/plugin.video.streamondemand/master/channels/libreria.py</update_url>
+    <active>true</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>2</version>
+    <adult>false</adult>
+    <date>28/08/2015</date>
+    <changes>Prima versione di Pelisalacarta 4</changes>
+</channel>
+
+
+<channel>
+    <id>mondolunatico</id>
+    <name>MondoLunatico</name>
+    <language>it</language>
+    <update_url>
+        https://raw.githubusercontent.com/Zanzibar82/plugin.video.streamondemand/master/channels/mondolunatico.py
+    </update_url>
+    <active>true</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>6</version>
+    <adult>false</adult>
+    <date>05/03/2016</date>
+    <changes>Added category</changes>
+    <categories>
+        <category>movie</category>
+    </categories>
+</channel>
+
+
+
+<channel>
+    <id>novedades</id>
+    <name>Novedades</name>
+    <language>es</language>
+    <update_url>https://raw.githubusercontent.com/Zanzibar82/plugin.video.streamondemand/master/channels/novedades.py</update_url>
+    <active>true</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>5</version>
+    <adult>false</adult>
+    <date>16/11/2015</date>
+    <changes>First streamondemand.4 release</changes>
+</channel>
+
+
+<channel>
+    <id>pastebin</id>
+    <name>Pastebin</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/Zanzibar82/plugin.video.streamondemand/master/channels/pastebin.py</update_url>
+    <active>true</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>1</version>
+    <adult>false</adult>
+    <date>09/11/2015</date>
+    <changes>Prima versione di Pastebin</changes>
+    <categories>
+        <category>movie</category>
+        <category>serie</category>
+        <category>anime</category>
+        <category>vos</category>
+        <category>User</category>
+    </categories>
+</channel>
+
+
+<channel>
+    <id>pianetastreaming</id>
+    <name>Pianeta Streaming</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/Zanzibar82/plugin.video.streamondemand/master/channels/pianetastreaming.py</update_url>
+    <active>true</active>
+    <include_in_global_search>true</include_in_global_search>
+    <version>5</version>
+    <adult>false</adult>
+    <date>18/01/2016</date>
+    <changes>Added correct icon</changes>
+    <categories>
+        <category>movie</category>
+    </categories>
+</channel>
+
+
+<channel>
+    <id>piratestreaming</id>
+    <name>Pirate Streaming</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/Zanzibar82/plugin.video.streamondemand/master/channels/piratestreaming.py</update_url>
+    <active>true</active>
+    <include_in_global_search>true</include_in_global_search>
+    <version>8</version>
+    <adult>false</adult>
+    <date>19/02/2016</date>
+    <changes>Changed domain</changes>
+    <categories>
+        <category>movie</category>
+        <category>serie</category>
+    </categories>
+</channel>
+
+
+<channel>
+    <id>playcinema</id>
+    <name>Playcinema.org</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/Zanzibar82/plugin.video.streamondemand/master/channels/playcinema.py</update_url>
+    <active>true</active>
+    <include_in_global_search>true</include_in_global_search>
+    <version>4</version>
+    <adult>false</adult>
+    <date>03/12/2015</date>
+    <changes>Fixed error connection</changes>
+    <categories>
+        <category>movie</category>
+    </categories>
+</channel>
+
+
+<channel>
+    <id>portalehd</id>
+    <name>PortaleHD</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/Zanzibar82/plugin.video.streamondemand/master/channels/portalehd.py</update_url>
+    <active>true</active>
+    <include_in_global_search>true</include_in_global_search>
+    <version>9</version>
+    <adult>false</adult>
+    <date>14/02/2016</date>
+    <changes>Aggiunto anti-cloudflare</changes>
+    <categories>
+        <category>movie</category>
+        <category>serie</category>
+        <category>anime</category>
+    </categories>
+</channel>
+
+
+<channel>
+    <id>ricettevideo</id>
+    <name>Ricettevideo</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/Zanzibar82/plugin.video.streamondemand/master/channels/ricettevideo.py</update_url>
+    <active>true</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>1</version>
+    <adult>false</adult>
+    <date>21/02/2016</date>
+    <changes>1st release</changes>
+    <categories>
+        <category>Documentaries</category>
+    </categories>
+</channel>
+
+
+<channel>
+    <id>saghe</id>
+    <name>Saghe</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/Zanzibar82/plugin.video.streamondemand/master/channels/saghe.py</update_url>
+    <active>true</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>4</version>
+    <adult>false</adult>
+    <date>21/02/2016</date>
+    <changes>Changed API</changes>
+</channel>
+
+
+<channel>
+    <id>saintseiya</id>
+    <name>Saint Seiya</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/Zanzibar82/plugin.video.streamondemand/master/channels/saintseiya.py</update_url>
+    <active>true</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>4</version>
+    <adult>false</adult>
+    <date>28/10/2015</date>
+    <changes>Canale dedicato ai Cavalieri dello Zodiaco</changes>
+    <categories>
+        <category>anime</category>
+    </categories>
+</channel>
+
+
+<channel>
+    <id>scambioetico</id>
+    <name>Scambioetico</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/Zanzibar82/plugin.video.streamondemand/master/channels/scambioetico.py</update_url>
+    <active>true</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>6</version>
+    <adult>false</adult>
+    <date>23/01/2016</date>
+    <changes>1st release</changes>
+    <categories>
+        <category>movie</category>
+    </categories>
+</channel>
+
+
+<channel>
+    <id>seriehd</id>
+    <name>Serie HD</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/Zanzibar82/plugin.video.streamondemand/master/channels/seriehd.py</update_url>
+    <active>true</active>
+    <include_in_global_search>true</include_in_global_search>
+    <version>16</version>
+    <adult>false</adult>
+    <date>25/10/2015</date>
+    <changes>Aggiunto anti-cloudflare</changes>
+    <categories>
+        <category>serie</category>
+    </categories>
+</channel>
+
+
+<channel>
+    <id>serietvsubita</id>
+    <name>Serie TV Sub ITA</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/Zanzibar82/plugin.video.streamondemand/master/channels/serietvsubita.py</update_url>
+    <active>true</active>
+    <include_in_global_search>true</include_in_global_search>
+    <version>3</version>
+    <adult>false</adult>
+    <date>28/08/2015</date>
+    <changes>Prima versione di Pelisalacarta 4</changes>
+    <categories>
+        <category>serie</category>
+        <category>vos</category>
+    </categories>
+</channel>
+
+
+<channel>
+    <id>solostreaming</id>
+    <name>Solo-Streaming</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/Zanzibar82/plugin.video.streamondemand/master/channels/solostreaming.py</update_url>
+    <active>true</active>
+    <include_in_global_search>true</include_in_global_search>
+    <version>3</version>
+    <adult>false</adult>
+    <date>19/02/2016</date>
+    <changes>Pre-release</changes>
+    <categories>
+        <category>movie</category>
+        <category>serie</category>
+        <category>anime</category>
+        <category>documentaries</category>
+    </categories>
+</channel>
+
+
+<channel>
+    <id>southparkita</id>
+    <name>SouthParkITA Streaming</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/Zanzibar82/plugin.video.streamondemand/master/channels/southparkita.py</update_url>
+    <active>true</active>
+    <include_in_global_search>true</include_in_global_search>
+    <version>2</version>
+    <adult>false</adult>
+    <date>22/10/2015</date>
+    <changes>added channel</changes>
+    <categories>
+        <category>serie</category>
+        <category>anime</category>
+    </categories>
+</channel>
+
+
+<channel>
+    <id>streamblog</id>
+    <name>StreamBlog</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/Zanzibar82/plugin.video.streamondemand/master/channels/streamblog.py</update_url>
+    <active>true</active>
+    <include_in_global_search>true</include_in_global_search>
+    <version>6</version>
+    <adult>false</adult>
+    <date>28/08/2015</date>
+    <changes>Prima versione di Pelisalacarta 4</changes>
+    <categories>
+        <category>movie</category>
+        <category>serie</category>
+        <category>anime</category>
+    </categories>
+</channel>
+
+
+<channel>
+    <id>streaming01</id>
+    <name>Streaming01</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/Zanzibar82/plugin.video.streamondemand/master/channels/streaming01.py</update_url>
+    <active>true</active>
+    <include_in_global_search>true</include_in_global_search>
+    <version>7</version>
+    <adult>false</adult>
+    <date>14/02/2016</date>
+    <changes>Added correct icon</changes>
+    <categories>
+        <category>movie</category>
+    </categories>
+</channel>
+
+
+<channel>
+    <id>streamingfilmit</id>
+    <name>Streamingfilmit</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/Zanzibar82/plugin.video.streamondemand/master/channels/streamingfilmit.py</update_url>
+    <active>true</active>
+    <include_in_global_search>true</include_in_global_search>
+    <version>14</version>
+    <adult>false</adult>
+    <date>21/11/2015</date>
+    <changes>Fixed search</changes>
+    <categories>
+        <category>Movies</category>
+    </categories>
+</channel>
+
+
+<channel>
+    <id>streamingpopcorn</id>
+    <name>StreamingPopcorn</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/Zanzibar82/plugin.video.streamondemand/master/channels/streamingpopcorn.py</update_url>
+    <active>true</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>5</version>
+    <adult>false</adult>
+    <date>20/10/2015</date>
+    <changes>Prima versione di Pelisalacarta 4</changes>
+    <categories>
+        <category>movie</category>
+    </categories>
+</channel>
+
+
+<channel>
+    <id>strfilm</id>
+    <name>Strfilm</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/Zanzibar82/plugin.video.streamondemand/master/channels/strfilm.py</update_url>
+    <active>true</active>
+    <include_in_global_search>true</include_in_global_search>
+    <version>2</version>
+    <adult>false</adult>
+    <date>20/02/2016</date>
+    <changes>added plot</changes>
+    <categories>
+        <category>movie</category>
+    </categories>
+</channel>
+
+
+<channel>
+    <id>tantifilm</id>
+    <name>Tantifilm</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/Zanzibar82/plugin.video.streamondemand/master/channels/tantifilm.py</update_url>
+    <active>true</active>
+    <include_in_global_search>true</include_in_global_search>
+    <version>8</version>
+    <adult>false</adult>
+    <date>19/12/2015</date>
+    <changes>Added Home</changes>
+    <categories>
+        <category>movie</category>
+    </categories>
+</channel>
+
+
+<channel>
+    <id>tenentecolombo</id>
+    <name>tenentecolombo</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/Zanzibar82/plugin.video.streamondemand/master/channels/tenentecolombo.py</update_url>
+    <active>true</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>4</version>
+    <adult>false</adult>
+    <date>05/03/2016</date>
+    <changes>Switched to putstream</changes>
+    <categories>
+        <category>Serie</category>
+    </categories>
+</channel>
+
+
+<channel>
+    <id>tengourl</id>
+    <name>TengoUrL</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/Zanzibar82/plugin.video.streamondemand/master/channels/tengourl.py</update_url>
+    <active>true</active>
+    <include_in_global_search>true</include_in_global_search>
+    <version>1</version>
+    <adult>false</adult>
+    <date>28/08/2015</date>
+    <changes>Prima versione di Pelisalacarta 4</changes>
+    <categories>
+        <category>movie</category>
+        <category>serie</category>
+        <category>anime</category>
+        <category>vos</category>
+        <category>Documentaries</category>
+    </categories>
+</channel>
+
+
+<channel>
+    <id>toonitalia</id>
+    <name>toonitalia</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/Zanzibar82/plugin.video.streamondemand/master/channels/toonitalia.py</update_url>
+    <active>true</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>4</version>
+    <adult>false</adult>
+    <date>03/02/2016</date>
+    <changes>Fixes</changes>
+    <categories>
+        <category>Anime</category>
+    </categories>
+</channel>
+
+
+<channel>
+    <id>vediserie</id>
+    <name>VediSerie</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/Zanzibar82/plugin.video.streamondemand/master/channels/vediserie.py</update_url>
+    <active>true</active>
+    <include_in_global_search>true</include_in_global_search>
+    <version>6</version>
+    <adult>false</adult>
+    <date>26/10/2015</date>
+    <changes>2nd release: Impaginazione; 3rd: rimozione dei caratteri html da titoli come per GoT; fixata visualizzazione dei titoli nella ricerca. 4th Aggiunta lista alfabetica</changes>
+    <categories>
+        <category>serie</category>
+    </categories>
+</channel>
+
+
+<channel>
+    <id>youtube</id>
+    <name>Ricerca su Youtube</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/Zanzibar82/plugin.video.streamondemand/master/channels/youtube.py</update_url>
+    <active>true</active>
+    <include_in_global_search>true</include_in_global_search>
+    <version>3</version>
+    <adult>false</adult>
+    <date>03/09/2015</date>
+    <changes>Cambio viewmode</changes>
+    <categories>
+        <category>movie</category>
+        <category>anime</category>
+        <category>documentaries</category>
+        <category>series</category>		
+    </categories>
+</channel>
+
+
+</channels>

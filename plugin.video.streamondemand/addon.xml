@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.streamondemand"
+    name="Stream On Demand"
+    version="5.2.3"
+    provider-name="iSOD Crew">
+ <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="it">Film e serie tv on demand</summary>
+    <description lang="it">Cinema, serie tv, documentari, anime, ... tutto ciò che puoi trovare su Internet in streaming ora è sul tuo media center.</description>
+    <summary lang="en">Movies and TV Shows on demand</summary>
+    <description lang="en">Movies, Series, Documentaries, Anime, ... any streaming website you can find on Internet now on is ported to your media center.</description>
+    <platform>all</platform>
+  </extension>
+  <extension point="xbmc.service" library="library_service.py" start="login|startup">
+  </extension>
+</addon>
